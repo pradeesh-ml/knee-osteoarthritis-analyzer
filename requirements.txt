@@ -1,0 +1,17 @@
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+Pillow
+matplotlib
+tqdm
+torchsummary
+pytorch-grad-cam
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+chromadb 
+streamlit
+plotly
