@@ -1,6 +1,6 @@
 # 🔬 Knee Osteoarthritis Grading and Chatbot Assistant
 
-![Project Demo](results/image_1)
+![Project Demo](results/image_1.png)
 
 This project provides a comprehensive system for analyzing knee osteoarthritis (KOA) from X-ray images. It combines a deep learning model for classification with GradCAM++ for visual explanations, and integrates a RAG-powered chatbot to answer questions about the condition.
 
